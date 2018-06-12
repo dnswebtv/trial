@@ -38,19 +38,19 @@ http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 http://122.248.32.234:1935/jpm/myStream/playlist.m3u8
 #EXTINF:0, group-title="Lokal TV",JAWAPOS
 http://122.248.32.234:1935/ch6/myStream/playlist.m3u8
-#EXTINF:0, group-title="Ninmedia",DUTA
+#EXTINF:0, group-title="Lokal TV",DUTA
 http://video2.onlivestreaming.net/dutatv/live.sdp/playlist.m3u8
-#EXTINF:0, group-title="Ninmedia",Tabalong
+#EXTINF:0, group-title="Lokal TV",Tabalong
 http://stream1.ninmedia.tv/live/nin-tabalong.stream_nin/playlist.m3u8
-#EXTINF:0, group-title="Ninmedia",INFO FREESAT TV
+#EXTINF:0, group-title="Lokal TV",INFO FREESAT TV
 http://stream1.ninmedia.tv/live/nin-info.stream_nin/playlist.m3u8
-#EXTINF:0, group-title="Ninmedia",DUTA
+#EXTINF:0, group-title="Lokal TV",DUTA
 http://video2.onlivestreaming.net/dutatv/live.sdp/playlist.m3u8
-#EXTINF:0, group-title="Ninmedia",DTV
+#EXTINF:0, group-title="Lokal TV",DTV
 http://stream1.ninmedia.tv/live/nin-dtv.stream_nin/playlist.m3u8
-#EXTINF:0, group-title="Ninmedia",KITANESIA
+#EXTINF:0, group-title="Lokal TV",KITANESIA
 http://stream1.ninmedia.tv/live/nin-ladies.stream_nin/playlist.m3u8
-#EXTINF:0, group-title="Movies",DC7
+#EXTINF:0, group-title="Lokal TV",DC7
 http://stream1.ninmedia.tv/live/nin-dc7.stream_nin/playlist.m3u8
 
 #Movies
@@ -82,7 +82,7 @@ http://wowza60.indostreamserver.com:1935/gold/live/playlist.m3u8
 http://wowza60.indostreamserver.com:1935/red/live/playlist.m3u8
 #EXTINF:0, group-title="Movies",ABC
 http://wowza60.indostreamserver.com:1935/abc/live/playlist.m3u8
-#EXTINF:0, group-title="Ninmedia",SFI
+#EXTINF:0, group-title="Movies",SFI
 http://stream1.ninmedia.tv/live/nin-sfi.stream_nin/playlist.m3u8
 
 #Entertainment 
@@ -100,7 +100,7 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m
 http://202.93.133.3:1935/SVR1/ch_tic.stream_720p/playlist.m3u8
 
 #Documentary
-#EXTINF:0, group-title="Ninmedia",DIAMOND EARTH
+#EXTINF:0, group-title="Documentary",DIAMOND EARTH
 http://wowza60.indostreamserver.com:1935/earth/live/playlist.m3u8
 
 #News
@@ -144,9 +144,9 @@ http://210.210.155.35/session/9a13104a-3777-11e8-a842-c81f66f89318/qwr9ew/s/s37/
 http://119.235.249.60:1935/wesaltv/live/playlist.m3u8
 #EXTINF:0, group-title="Religious",RODJA
 http://210.210.155.35/session/a4ff8364-3dba-11e8-acb2-c81f66f89318/qwr9ew/s/s14/index1.m3u8
-#EXTINF:0, group-title="Ninmedia",DMI CHANNEL
+#EXTINF:0, group-title="Religious",DMI CHANNEL
 http://stream1.ninmedia.tv/live/nin-dmi.stream_nin/playlist.m3u8
-#EXTINF:0, group-title="Ninmedia",NU CHANNEL
+#EXTINF:0, group-title="Religious",NU CHANNEL
 http://stream1.ninmedia.tv/live/nin-nuchannel.stream_nin/playlist.m3u8
 
 #Lifestyle
@@ -160,9 +160,9 @@ http://livestream.biznetvideo.net/biznet_lifestyle/_definst_/stream_lifestyle/pl
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:0, group-title="Music",M2O
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:0, group-title="Ninmedia",KLIK MUSIC
+#EXTINF:0, group-title="Music",KLIK MUSIC
 http://stream1.ninmedia.tv/live/nin-klik-music.stream_nin/playlist.m3u8
-#EXTINF:0, group-title="Ninmedia",MALEO
+#EXTINF:0, group-title="Music",MALEO
 http://stream1.ninmedia.tv/live/nin-bmw.stream_nin/playlist.m3u8
-#EXTINF:0, group-title="Ninmedia",SMI
+#EXTINF:0, group-title="Music",SMI
 http://stream1.ninmedia.tv/live/nin-smi.stream_nin/playlist.m3u8
