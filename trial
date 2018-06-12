@@ -1,6 +1,5 @@
 #EXTM3U
 #Lokal TV
-#Lokal TV
 #EXTINF:0, group-title="Lokal TV",Global TV
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8?_res_tag_=video
 #EXTINF:0, group-title="Lokal TV",RCTI
@@ -125,6 +124,8 @@ http://210.210.155.35/session/1a597858-374f-11e8-a8d3-c81f66f89318/uq2663/h/h21/
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 #EXTINF:0, group-title="Sports",Usee Sports
 http://edge.telin.useetv.com/sc/useesport_720p.m3u8
+#EXTINF:0, group-title="Sports",Test
+http://185.21.216.167:8554/fox/geosuper/playlist.m3u8?nimblesessionid=1822742&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDE4IDEwOjEwOjM0IFBNJmhhc2hfdmFsdWU9M2xmZEtzdjhqTnBKb2s1dEpyRjNkdz09JnZhbGlkbWludXRlcz0y
 
 #Kids
 #EXTINF:0, group-title="Kids",TOONMAX TV
