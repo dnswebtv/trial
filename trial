@@ -54,8 +54,6 @@ http://stream1.ninmedia.tv/live/nin-ladies.stream_nin/playlist.m3u8
 http://stream1.ninmedia.tv/live/nin-dc7.stream_nin/playlist.m3u8
 
 #Movies
-#EXTINF:0, group-title="Movies",FOX
-http://210.210.155.35/session/052943a8-3508-11e8-999b-c81f66f89318/uq2663/h/h04/index1.m3u8
 #EXTINF:0, group-title="Movies",FOX MOVIES
 http://210.210.155.35/session/924b0088-3b33-11e8-ba57-c81f66f89318/uq2663/h/h14/index1.m3u8
 #EXTINF:0, group-title="Movies",FOX FAMILY MOVIES
@@ -90,6 +88,8 @@ http://stream1.ninmedia.tv/live/nin-sfi.stream_nin/playlist.m3u8
 #Entertainment 
 #EXTINF:0, group-title="Entertainment",AXN ==> New
 http://210.210.155.35/session/7d75676e-6e7f-11e8-bf09-b82a72d63267/uq2663/h/h09/index1.m3u8
+#EXTINF:0, group-title="Movies",FOX
+http://210.210.155.35/session/052943a8-3508-11e8-999b-c81f66f89318/uq2663/h/h04/index1.m3u8
 #EXTINF:0, group-title="Entertainment",FOX LIFE
 http://210.210.155.35/session/a1afff88-3507-11e8-84e2-c81f66f89318/uq2663/h/h03/index1.m3u8
 #EXTINF:0, group-title="Entertainment",SONY CHANNEL ==> New
