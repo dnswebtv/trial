@@ -86,8 +86,12 @@ http://wowza60.indostreamserver.com:1935/abc/live/playlist.m3u8
 http://stream1.ninmedia.tv/live/nin-sfi.stream_nin/playlist.m3u8
 
 #Entertainment 
+#EXTINF:0, group-title="Entertainment",AXN
+http://210.210.155.35/session/7d75676e-6e7f-11e8-bf09-b82a72d63267/uq2663/h/h09/index1.m3u8
 #EXTINF:0, group-title="Entertainment",FOX LIFE
 http://210.210.155.35/session/a1afff88-3507-11e8-84e2-c81f66f89318/uq2663/h/h03/index1.m3u8
+#EXTINF:0, group-title="Entertainment",SONY CHANNEL
+http://210.210.155.35/session/55ed13da-6e85-11e8-881b-c81f66f89318/uq2663/h/h06/index1.m3u8
 #EXTINF:0, group-title="Entertainment",K+
 http://210.210.155.35/session/68b0c3da-351f-11e8-b6c0-c81f66f89318/uq2663/h/h08/index1.m3u8
 #EXTINF:0, group-title="Entertainment",K DRAMA
@@ -128,12 +132,16 @@ http://edge.telin.useetv.com/sc/useesport_720p.m3u8
 http://185.21.216.167:8554/fox/geosuper/playlist.m3u8?nimblesessionid=1822742&wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMi8yMDE4IDEwOjEwOjM0IFBNJmhhc2hfdmFsdWU9M2xmZEtzdjhqTnBKb2s1dEpyRjNkdz09JnZhbGlkbWludXRlcz0y
 
 #Kids
+#EXTINF:0, group-title="Kids",ANIPLUS
+http://210.210.155.35/session/fcc5aaee-6e87-11e8-ba87-b82a72d63267/uq2663/h/h02/index1.m3u8
 #EXTINF:0, group-title="Kids",TOONMAX TV
 http://210.210.155.35/session/bc096f08-4647-11e8-a629-b82a72d63267/qwr9ew/s/s37/index1.m3u8
 #EXTINF:0, group-title="Kids",BIZNET KIDS
 http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=KtBR4kNKKiprUBcuDy5kEENEVkzkgFgMsEfSlNamPqjnP-SC3OrXMAISH4ip6xvz
 #EXTINF:0, group-title="Kids",KIDS CHANNEL
 http://wowza60.indostreamserver.com:1935/kids/live/playlist.m3u8
+#EXTINF:0, group-title="Kids",DA VINCI KIDS
+http://210.210.155.35/session/97b1fbd0-6e87-11e8-afd3-b82a72d63267/uq2663/h/h01/index1.m3u8
 
 #Religious
 #EXTINF:0, group-title="Religious",MAKKAH LIVE 1
