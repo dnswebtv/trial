@@ -76,6 +76,8 @@ http://210.210.155.35/session/b3afcdce-37cf-11e8-b6cb-c81f66f89318/uq2663/s/s31/
 http://wowza60.indostreamserver.com:1935/adti/live/playlist.m3u8
 #EXTINF:0, group-title="Movies",BLACK DIAMOND
 http://wowza60.indostreamserver.com:1935/bdti/live/playlist.m3u8
+#EXTINF:0, group-title="Movies",WHITE DIAMOND
+http://wowza60.indostreamserver.com:1935/white/live/playlist.m3u8
 #EXTINF:0, group-title="Movies",GOLD DIAMOND
 http://wowza60.indostreamserver.com:1935/gold/live/playlist.m3u8
 #EXTINF:0, group-title="Movies",RED DIAMOND
