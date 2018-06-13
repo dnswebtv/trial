@@ -13,7 +13,7 @@ http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511552652254306/index.m3u8
 #EXTINF:0, group-title="Lokal TV",SCTV
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch15010918464887721048/index.m3u8
 #EXTINF:0, group-title="Lokal TV",NET.
-playUrl":"http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 #EXTINF:0, group-title="Lokal TV",TVONE
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14061215030555428637/index.m3u8
 #EXTINF:0, group-title="Lokal TV",INDOSIAR
