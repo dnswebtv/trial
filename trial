@@ -128,6 +128,26 @@ http://210.210.155.35/session/1a597858-374f-11e8-a8d3-c81f66f89318/uq2663/h/h21/
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 #EXTINF:0, group-title="Sports",Usee Sports
 http://edge.telin.useetv.com/sc/useesport_720p.m3u8
+#EXTINF:-1,     List-Iptv.com      beIN SPORTS 1 HD [backup] ARB
+http://clientportal.link:80/live/Petko/123456/21924.ts
+#EXTINF:0, group-title="Sports",beIN SPORTS 2 HD
+http://clientportal.link:80/live/Petko/123456/21925.ts
+#EXTINF:0, group-title="Sports",beIN SPORTS 3 HD
+http://clientportal.link:80/live/Petko/123456/21926.ts
+#EXTINF:0, group-title="Sports",beIN SPORTS 4 HD
+http://clientportal.link:80/live/Petko/123456/21927.ts
+#EXTINF:0, group-title="Sports",beIN SPORTS 5 HD
+http://clientportal.link:80/live/Petko/123456/21928.ts
+#EXTINF:0, group-title="Sports",beIN SPORTS 6 HD
+http://clientportal.link:80/live/Petko/123456/21929.ts
+#EXTINF:0, group-title="Sports",beIN SPORTS 7 HD
+http://clientportal.link:80/live/Petko/123456/21930.ts
+#EXTINF:0, group-title="Sports",beIN SPORTS 8 HD
+http://clientportal.link:80/live/Petko/123456/21931.ts
+#EXTINF:0, group-title="Sports",beIN SPORTS 9 HD
+http://clientportal.link:80/live/Petko/123456/21932.ts
+#EXTINF:0, group-title="Sports",beIN SPORTS 10 HD
+http://clientportal.link:80/live/Petko/123456/21933.ts
 
 #Kids
 #EXTINF:0, group-title="Kids",ANIPLUS => New
