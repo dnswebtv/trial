@@ -132,14 +132,16 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m
 http://202.93.133.3:1935/SVR1/ch_tic.stream_720p/playlist.m3u8
 
 #Documentary
-#EXTINF:0, group-title="Documentary",DIAMOND EARTH
-http://wowza60.indostreamserver.com:1935/earth/live/playlist.m3u8
+#EXTINF:-1,group-title="Documentary",H2
+http://landiptv.live:8080/live/njAG7asko3/T0r7JiLxr3/74597.ts
 #EXTINF:-1,group-title="Documentary",NATIONAL GEOGRAPHIC
 http://210.210.155.35/session/ba4e438c-6b09-11e8-a5d9-c81f66f89318/uq2663/h/h11/index1.m3u8
 #EXTINF:-1,group-title="Documentary",NAT GEO WILD
 http://210.210.155.35/session/f3655c82-6b09-11e8-a5d9-c81f66f89318/uq2663/h/h12/index1.m3u8
 #EXTINF:-1,group-title="Documentary",CGTN
 http://210.210.155.35/session/2af5446e-6b0a-11e8-b63d-c81f66f89318/qwr9ew/s/s20/index1.m3u8
+#EXTINF:0, group-title="Documentary",DIAMOND EARTH
+http://wowza60.indostreamserver.com:1935/earth/live/playlist.m3u8
 
 #News
 #EXTINF:0, group-title="News",AL JAZEERA
