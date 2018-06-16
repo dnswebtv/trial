@@ -21,7 +21,7 @@ http://202.80.222.4/mnt/tmpfs/hls/001/001/ch15051810235326945512/index.m3u8
 #EXTINF:0, group-title="Lokal TV",METRO TV
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511515576869807/index.m3u8
 #EXTINF:0, group-title="Lokal TV",TRANS 7
-http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511545447343123/index.m3u8
+http://210.210.155.35/session/74bbe02e-7179-11e8-b22f-c81f66f89318/qwr9ew/s/s06/index1.m3u8
 #EXTINF:0, group-title="Lokal TV",ANTV
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14061215034900095272/index.m3u8
 #EXTINF:0, group-title="Lokal TV",TVRI
