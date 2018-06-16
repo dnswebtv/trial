@@ -9,7 +9,7 @@ http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/index.m3u8
 #EXTINF:0, group-title="Lokal TV",iNews
 http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511541532132975/index.m3u8
 #EXTINF:0, group-title="Lokal TV",TRANSTV
-http://dmlive.vo.llnwd.net/34/dm/3/x4nwi47/live-3.m3u8
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511552652254306/index.m3u8
 #EXTINF:0, group-title="Lokal TV",SCTV
 http://210.210.155.35/session/dd7b6c52-5a8a-11e8-b52a-b82a72d63267/qwr9ew/s/s03/index1.m3u8
 #EXTINF:0, group-title="Lokal TV",NET.
