@@ -99,13 +99,17 @@ http://edge.telin.useetv.com/sc/useesport_720p.m3u8
 #EXTINF:0, group-title="Sports",Channel Piala Dunia
 http://pildun.ganteng.stream:8888/live/Andreas/Andreas/467.ts
 #EXTINF:-1,BEIN SPORT 1
-http://prima.stream-control.live:8080/live/pFemUsiTpt/cToUH65JG5/88854.ts
+http://landiptv.live:8080/live/I7r1g7QL1w/gnclLKlmOn/62753.ts
 #EXTINF:-1,BEIN SPORT 2
 http://prima.stream-control.live:8080/live/pFemUsiTpt/cToUH65JG5/62752.ts
 #EXTINF:-1,BEIN SPORT 3
 http://prima.stream-control.live:8080/live/pFemUsiTpt/cToUH65JG5/62751.ts
 #EXTINF:-1,BEIN SPORT 4
 http://prima.stream-control.live:8080/live/pFemUsiTpt/cToUH65JG5/62750.ts
+#EXTINF:-1,BEIN SPORT 5
+http://landiptv.live:8080/live/I7r1g7QL1w/gnclLKlmOn/62749.ts
+#EXTINF:-1,BEIN SPORT 6
+http://landiptv.live:8080/live/I7r1g7QL1w/gnclLKlmOn/62748.ts
 
 #Entertainment 
 #EXTINF:0, group-title="Entertainment",AXN
