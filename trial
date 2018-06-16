@@ -112,8 +112,6 @@ http://210.210.155.35/session/7d75676e-6e7f-11e8-bf09-b82a72d63267/uq2663/h/h09/
 http://210.210.155.35/session/052943a8-3508-11e8-999b-c81f66f89318/uq2663/h/h04/index1.m3u8
 #EXTINF:0, group-title="Entertainment",FOX LIFE
 http://210.210.155.35/session/a1afff88-3507-11e8-84e2-c81f66f89318/uq2663/h/h03/index1.m3u8
-#EXTINF:0, group-title="Entertainment",DMAX
-http://prima.stream-control.live:8080/live/Amquntzgv6/1B3ZSTiR6E/74573.ts
 #EXTINF:0, group-title="Entertainment",SONY CHANNEL
 http://210.210.155.35/session/55ed13da-6e85-11e8-881b-c81f66f89318/uq2663/h/h06/index1.m3u8
 #EXTINF:0, group-title="Entertainment",K+
@@ -130,16 +128,12 @@ http://202.93.133.3:1935/SVR1/ch_tic.stream_720p/playlist.m3u8
 #Documentary
 #EXTINF:0, group-title="Documentary",DIAMOND EARTH
 http://wowza60.indostreamserver.com:1935/earth/live/playlist.m3u8
-#EXTINF:0, group-title="Documentary",H2
-http://prima.stream-control.live:8080/live/Amquntzgv6/1B3ZSTiR6E/74597.ts
-#EXTINF:0, group-title="Documentary",HISTORY
-http://prima.stream-control.live:8080/live/Amquntzgv6/1B3ZSTiR6E/65025.ts
-#EXTINF:0, group-title="Documentary",Discovery Science
-http://landiptv.live:8080/live/Amquntzgv6/1B3ZSTiR6E/65024.ts
-#EXTINF:0, group-title="Documentary",Discovery Shed
-http://landiptv.live:8080/live/Amquntzgv6/1B3ZSTiR6E/74794.ts
-#EXTINF:0, group-title="Documentary",Discovery Turbo
-http://prima.stream-control.live:8080/live/Amquntzgv6/1B3ZSTiR6E/65033.ts
+#EXTINF:-1,group-title="Documentary",NATIONAL GEOGRAPHIC
+http://210.210.155.35/session/ba4e438c-6b09-11e8-a5d9-c81f66f89318/uq2663/h/h11/index1.m3u8
+#EXTINF:-1,group-title="Documentary",NAT GEO WILD
+http://210.210.155.35/session/f3655c82-6b09-11e8-a5d9-c81f66f89318/uq2663/h/h12/index1.m3u8
+#EXTINF:-1,group-title="Documentary",CGTN
+http://210.210.155.35/session/2af5446e-6b0a-11e8-b63d-c81f66f89318/qwr9ew/s/s20/index1.m3u8
 
 #News
 #EXTINF:0, group-title="News",AL JAZEERA
@@ -152,11 +146,10 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8?play-only=p
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:0, group-title="News",JAKARTA GLOBE
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-#EXTINF:0, group-title="News",FRANCE 24
-http://prima.stream-control.live:8080/live/Amquntzgv6/1B3ZSTiR6E/74737.ts
+
 
 #Kids
-#EXTINF:0, group-title="Kids",ANIPLUS => New
+#EXTINF:0, group-title="Kids",ANIPLUS
 http://210.210.155.35/session/fcc5aaee-6e87-11e8-ba87-b82a72d63267/uq2663/h/h02/index1.m3u8
 #EXTINF:0, group-title="Kids",TOONMAX TV
 http://210.210.155.35/session/bc096f08-4647-11e8-a629-b82a72d63267/qwr9ew/s/s37/index1.m3u8
@@ -164,12 +157,9 @@ http://210.210.155.35/session/bc096f08-4647-11e8-a629-b82a72d63267/qwr9ew/s/s37/
 http://livestream.biznetvideo.net/biznet_kids/_definst_/stream_kids/playlist.m3u8?tokenbiznetlivestarttime=0&tokenbiznetliveendtime=0&tokenbiznetliveCustomParameter=myParameter&tokenbiznetlivehash=KtBR4kNKKiprUBcuDy5kEENEVkzkgFgMsEfSlNamPqjnP-SC3OrXMAISH4ip6xvz
 #EXTINF:0, group-title="Kids",KIDS CHANNEL
 http://wowza60.indostreamserver.com:1935/kids/live/playlist.m3u8
-#EXTINF:0, group-title="Kids",DA VINCI KIDS => New
+#EXTINF:0, group-title="Kids",DA VINCI KIDS
 http://210.210.155.35/session/97b1fbd0-6e87-11e8-afd3-b82a72d63267/uq2663/h/h01/index1.m3u8
-#EXTINF:0, group-title="Kids",DISNEY JUNIOR HD
-prima.stream-control.live:8080/live/Amquntzgv6/1B3ZSTiR6E/65133.ts
-#EXTINF:0, group-title="Kids",DISNEY MOVIE
-http://prima.stream-control.live:8080/live/Amquntzgv6/1B3ZSTiR6E/99076.ts
+
 
 #Religious
 #EXTINF:0, group-title="Religious",MAKKAH LIVE 1
