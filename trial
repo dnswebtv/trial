@@ -97,26 +97,13 @@ http://edge.telin.useetv.com/sc/useesport_720p.m3u8
 #EXTINF:0, group-title="Sports",Sony Ten 1
 http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/01.m3u8
 #EXTINF:-1,BEIN SPORT 1
-http://prima.stream-control.live:8080/live/tUDzjjlcvE/lhArRuhA1V/62753.ts
+http://prima.stream-control.live:8080/live/pFemUsiTpt/cToUH65JG5/88854.ts
 #EXTINF:-1,BEIN SPORT 2
-http://prima.stream-control.live:8080/live/tUDzjjlcvE/lhArRuhA1V/77965.ts
+http://prima.stream-control.live:8080/live/pFemUsiTpt/cToUH65JG5/62752.ts
 #EXTINF:-1,BEIN SPORT 3
-http://prima.stream-control.live:8080/live/tUDzjjlcvE/lhArRuhA1V/77963.ts
+http://prima.stream-control.live:8080/live/pFemUsiTpt/cToUH65JG5/62751.ts
 #EXTINF:-1,BEIN SPORT 4
 http://178.132.5.11/live/2NW5gZA9j5/71mLYs180/18280.m3u8?token=SxoOVkYKEF4WUQQAVA1dB1cAVVEKUQZSBABdBVZUU1oIDABSVFMDUQYXGkEVQRYGAAtuCFdHCgddU1wHHEFESlVKOV5RQAhGDAIGU14DRk9DElgMVkcKBklDFF5UQQsbAgFfBwVAHkZRTUIGFFsFDz4CVBdaBlUUXw8RW1xPE1ZeZwJSWANcABYPFFNEGUYKEhYTWxEoX1UNAAxYQxcfWl9VRBsXAFsQRlRCBkQPRlJXXwFDH0dTWRAPEEVJQQsbZWtEGxcHShBRW0UKCVtGWUMLAhQLRxwUDBI7RVUQRUtVWQtSR0AIRgQXGkELVBw8AglfD1YGRF8KDxcVCkEAGxwaC1hbC0YLRmpGCgIXXkFSVgRUERg=
-#EXTINF:-1,BEIN SPORT 5
-http://prima.stream-control.live:8080/live/tUDzjjlcvE/lhArRuhA1V/77959.ts
-#EXTINF:-1,BEIN SPORT 6
-http://prima.stream-control.live:8080/live/tUDzjjlcvE/lhArRuhA1V/77957.ts
-#EXTINF:-1,BEIN SPORT 7
-http://prima.stream-control.live:8080/live/tUDzjjlcvE/lhArRuhA1V/77955.ts
-#EXTINF:-1,BEIN SPORT 8
-http://prima.stream-control.live:8080/live/tUDzjjlcvE/lhArRuhA1V/77953.ts
-#EXTINF:-1,BEIN SPORT 9
-http://prima.stream-control.live:8080/live/tUDzjjlcvE/lhArRuhA1V/77952.ts
-#EXTINF:-1,BEIN SPORT 10
-http://prima.stream-control.live:8080/live/tUDzjjlcvE/lhArRuhA1V/78936.ts
-
 
 #Entertainment 
 #EXTINF:0, group-title="Entertainment",AXN
