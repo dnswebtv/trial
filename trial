@@ -96,8 +96,8 @@ http://210.210.155.35/session/1a597858-374f-11e8-a8d3-c81f66f89318/uq2663/h/h21/
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 #EXTINF:0, group-title="Sports",Usee Sports
 http://edge.telin.useetv.com/sc/useesport_720p.m3u8
-#EXTINF:0, group-title="Sports",Sony Ten 1
-http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/01.m3u8
+#EXTINF:0, group-title="Sports",Channel Piala Dunia
+http://pildun.ganteng.stream:8888/live/Andreas/Andreas/467.ts
 #EXTINF:-1,BEIN SPORT 1
 http://prima.stream-control.live:8080/live/pFemUsiTpt/cToUH65JG5/88854.ts
 #EXTINF:-1,BEIN SPORT 2
