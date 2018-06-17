@@ -54,8 +54,6 @@ http://stream1.ninmedia.tv/live/nin-ladies.stream_nin/playlist.m3u8
 http://stream1.ninmedia.tv/live/nin-dc7.stream_nin/playlist.m3u8
 
 #Movies
-#EXTINF:0, group-title="Movies",HBO HD
-http://landiptv.live:8080/live/njAG7asko3/T0r7JiLxr3/91383.ts
 #EXTINF:0, group-title="Movies",FOX MOVIES
 http://210.210.155.35/session/924b0088-3b33-11e8-ba57-c81f66f89318/uq2663/h/h14/index1.m3u8
 #EXTINF:0, group-title="Movies",FOX FAMILY MOVIES
@@ -76,7 +74,7 @@ http://210.210.155.35/session/b3afcdce-37cf-11e8-b6cb-c81f66f89318/uq2663/s/s31/
 http://wowza60.indostreamserver.com:1935/adti/live/playlist.m3u8
 #EXTINF:0, group-title="Movies",BLACK DIAMOND
 http://wowza60.indostreamserver.com:1935/bdti/live/playlist.m3u8
-#EXTINF:0, group-title="Movies",WHITE DIAMOND => New
+#EXTINF:0, group-title="Movies",WHITE DIAMOND
 http://wowza60.indostreamserver.com:1935/white/live/playlist.m3u8
 #EXTINF:0, group-title="Movies",GOLD DIAMOND
 http://wowza60.indostreamserver.com:1935/gold/live/playlist.m3u8
@@ -100,18 +98,7 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 http://edge.telin.useetv.com/sc/useesport_720p.m3u8
 #EXTINF:0, group-title="Sports",Channel Piala Dunia
 http://pildun.ganteng.stream:8888/live/Andreas/Andreas/467.ts
-#EXTINF:-1,BEIN SPORT 1
-http://landiptv.live:8080/live/I7r1g7QL1w/gnclLKlmOn/62753.ts
-#EXTINF:-1,BEIN SPORT 2
-http://prima.stream-control.live:8080/live/pFemUsiTpt/cToUH65JG5/62752.ts
-#EXTINF:-1,BEIN SPORT 3
-http://prima.stream-control.live:8080/live/pFemUsiTpt/cToUH65JG5/62751.ts
-#EXTINF:-1,BEIN SPORT 4
-http://prima.stream-control.live:8080/live/pFemUsiTpt/cToUH65JG5/62750.ts
-#EXTINF:-1,BEIN SPORT 5
-http://landiptv.live:8080/live/I7r1g7QL1w/gnclLKlmOn/62749.ts
-#EXTINF:-1,BEIN SPORT 6
-http://landiptv.live:8080/live/I7r1g7QL1w/gnclLKlmOn/62748.ts
+
 
 #Entertainment 
 #EXTINF:0, group-title="Entertainment",AXN
@@ -134,8 +121,6 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m
 http://202.93.133.3:1935/SVR1/ch_tic.stream_720p/playlist.m3u8
 
 #Documentary
-#EXTINF:-1,group-title="Documentary",H2
-http://landiptv.live:8080/live/njAG7asko3/T0r7JiLxr3/74597.ts
 #EXTINF:-1,group-title="Documentary",NATIONAL GEOGRAPHIC
 http://210.210.155.35/session/ba4e438c-6b09-11e8-a5d9-c81f66f89318/uq2663/h/h11/index1.m3u8
 #EXTINF:-1,group-title="Documentary",NAT GEO WILD
