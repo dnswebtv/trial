@@ -60,6 +60,8 @@ http://210.210.155.35/session/924b0088-3b33-11e8-ba57-c81f66f89318/uq2663/h/h14/
 http://210.210.155.35/session/d17e0d7c-3507-11e8-84e2-c81f66f89318/uq2663/h/h16/index1.m3u8
 #EXTINF:0, group-title="Movies",FOX ACTION MOVIES
 http://210.210.155.35/session/600f6dba-3508-11e8-999b-c81f66f89318/uq2663/h/h15/index1.m3u8
+#EXTINF:0, group-title="Movies",FOX ACTION MOVIES HD
+http://rr.dens.tv/h/h15/index2.m3u8
 #EXTINF:0, group-title="Movies",THRILL
 http://210.210.155.35/session/3609a9a0-3773-11e8-8c5f-c81f66f89318/qwr9ew/s/s34/index1.m3u8
 #EXTINF:0, group-title="Movies",ZEE BIOSKOP
