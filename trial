@@ -21,7 +21,7 @@ http://210.210.155.35/session/aeb0403c-5a8a-11e8-9332-b82a72d63267/qwr9ew/s/s04/
 #EXTINF:0, group-title="Lokal TV",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w953595613_b1300000_sleng.m3u8
 #EXTINF:0, group-title="Lokal TV",TRANS 7
-http://103.75.100.7/wh7f454c46tw3300869371_903777471/PLTV/88888888/224/3221225590/index.m3u8
+http://rr2.dens.tv/s/s06/index2.m3u8
 #EXTINF:0, group-title="Lokal TV",ANTV
 http://210.210.155.35/session/2aeedd48-5a8b-11e8-b712-b82a72d63267/qwr9ew/s/s07/index1.m3u8
 #EXTINF:0, group-title="Lokal TV",KOMPAS TV
