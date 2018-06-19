@@ -96,8 +96,26 @@ http://210.210.155.35/session/1a597858-374f-11e8-a8d3-c81f66f89318/uq2663/h/h21/
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 #EXTINF:0, group-title="Sports",Usee Sports
 http://edge.telin.useetv.com/sc/useesport_720p.m3u8
-#EXTINF:0, group-title="Sports",Channel Piala Dunia
-http://mypanel.tv:8080/live/bv/bv2017/4947.ts
+#EXTINF:0, group-title="Sports",BEIN SPORT 1
+http://forzatv.tk:8080/live/persada2/parabola63/742.ts
+#EXTINF:0, group-title="Sports",BEIN SPORT 2
+http://forzatv.tk:8080/live/persada2/parabola63/924.ts
+#EXTINF:0, group-title="Sports",BEIN SPORT 3
+http://forzatv.tk:8080/live/persada2/parabola63/997.ts
+#EXTINF:0, group-title="Sports",BEIN SPORT 4
+http://forzatv.tk:8080/live/persada2/parabola63/1007.ts
+#EXTINF:0, group-title="Sports",BEIN SPORT 5
+http://forzatv.tk:8080/live/persada2/parabola63/1008.ts
+#EXTINF:0, group-title="Sports",BEIN SPORT 6
+http://forzatv.tk:8080/live/persada2/parabola63/1009.ts
+#EXTINF:0, group-title="Sports",BEIN SPORT 7
+http://forzatv.tk:8080/live/persada2/parabola63/1010.ts
+#EXTINF:0, group-title="Sports",BEIN SPORT 8
+http://forzatv.tk:8080/live/persada2/parabola63/1011.ts
+#EXTINF:0, group-title="Sports",BEIN SPORT 9
+http://forzatv.tk:8080/live/persada2/parabola63/1012.ts
+#EXTINF:0, group-title="Sports",BEIN SPORT 10
+http://forzatv.tk:8080/live/persada2/parabola63/1194.ts
 
 #Entertainment 
 #EXTINF:0, group-title="Entertainment",AXN
