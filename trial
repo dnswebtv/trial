@@ -96,9 +96,6 @@ http://210.210.155.35/session/1a597858-374f-11e8-a8d3-c81f66f89318/uq2663/h/h21/
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
 #EXTINF:0, group-title="Sports",Usee Sports
 http://edge.telin.useetv.com/sc/useesport_720p.m3u8
-#EXTINF:0, group-title="Sports",Channel Piala Dunia
-http://35.187.232.239:8000/play/a004/index.m3u8
-
 
 #Entertainment 
 #EXTINF:0, group-title="Entertainment",AXN
